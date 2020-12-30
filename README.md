@@ -1,2 +1,3 @@
 # ChemistryJeopardy
-Chemistry Jeopardy Game that uses Java and XML 
+Chemistry Jeopardy Game built with JFrame and XML. 
+Designed for Grade 11 Chemistry Classrooms to enhance online learning. 
