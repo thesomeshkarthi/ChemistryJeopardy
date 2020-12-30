@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Jeopardy>
+    <Answers>
+        <w100>Sodium chloride</w100>
+        <w200>Carbon tetroxide</w200>
+        <w300>Dinitrogen tetroxide</w300>
+        <c100>MgCl2</c100>
+        <c200>NH3</c200>
+        <c300>Na2SO4</c300>
+        <h100>Niels Bohr</h100>
+        <h200>J.J. Thomson</h200>
+        <h300>James Chadwick</h300>
+    </Answers>
+    <Answers>
+        <w100>Potassium chloride</w100>
+        <w200>Barium fluoride</w200>
+        <w300>Hydrogen acetate</w300>
+        <c100>BaSe</c100>
+        <c200>CuF</c200>
+        <c300>SnO</c300>
+        <h100>Ernest Rutherford</h100>
+        <h200>Niels Bohr</h200>
+        <h300>Erwin Schrodinger</h300>
+    </Answers>
+    <Answers>
+        <w100>Carbon dioxide</w100>
+        <w200>Sodium chlorate</w200>
+        <w300>Ammonium hydroxide</w300>
+        <c100>AgBr</c100>
+        <c200>AgNO3</c200>
+        <c300>NaMnO4</c300>
+        <h100>John Dalton</h100>
+        <h200>Corpuscles</h200>
+        <h300>Niels Bohr</h300>
+    </Answers>
+    <Answers>
+        <w100>Water</w100>
+        <w200>Beryllium chromate</w200>
+        <w300>Potassium permanganate</w300>
+        <c100>LiOH</c100>
+        <c200>FeCrO4</c200>
+        <c300>Fe(C2H3O2)2</c300>
+        <h100>J.J. Thomson</h100>
+        <h200>Ernest Rutherford</h200>
+        <h300>Democritus</h300>
+    </Answers>
+</Jeopardy>

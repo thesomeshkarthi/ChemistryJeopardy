@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Jeopardy>
+    <Questions>
+        <w100>What is NaCl in words?</w100>
+        <w200>What is CO4 in words?</w200>
+        <w300>What is N2O4 in words?</w300>
+        <c100>What is chemical formula for Magnesium Chloride?</c100>
+        <c200>What is the chemical formula for Ammonia?</c200>
+        <c300>What is the chemical formula for Sodium Sulfate?</c300>
+        <h100>Who created the bohr model?</h100>
+        <h200>Who created the plum pudding model?</h200>
+        <h300>Who discovered the neutron?</h300>
+    </Questions>
+    <Questions>
+        <w100>What is KCl in words?</w100>
+        <w200>What is BaF2 in words?</w200>
+        <w300>What is HC2H3O2 in words?</w300>
+        <c100>What is the chemical formula for Barium selenide?</c100>
+        <c200>What is the chemical formula for Copper (I) fluoride?</c200>
+        <c300>What is the formula for Tin (II) oxide?</c300>
+        <h100>Who discovered the nucleus?</h100>
+        <h200>Who discovered that atoms have shells?</h200>
+        <h300>Who discovered the electron cloud model?</h300>
+    </Questions>
+    <Questions>
+        <w100>What is CO2 in words?</w100>
+        <w200>What is NaClO3 in words?</w200>
+        <w300>What is NH4OH in words?</w300>
+        <c100>What is the chemical formula of Silver bromide?</c100>
+        <c200>What is the chemical formula of Silver nitrate?</c200>
+        <c300>What is the chemical formula of Sodium permanganate?</c300>
+        <h100>Who discovered the billiard ball model?</h100>
+        <h200>What were electrons originally called?</h200>
+        <h300>Who discovered that electrons can jump to higher orbits?</h300>
+    </Questions>
+    <Questions>
+        <w100>What is the common name of H2O?</w100>
+        <w200>What is the name of BeCrO4?</w200>
+        <w300>What is the name of KMnO4?</w300>
+        <c100>What is the chemical formula of Lithium hydroxide?</c100>
+        <c200>What is the chemical formula of Iron (II) chromate?</c200>
+        <c300>What is the chemical formula of Iron(II) Acetate</c300>
+        <h100>Who believed that electrons were like raisins in a pudding?</h100>
+        <h200>Who conducted the gold foil experiment?</h200>
+        <h300>Who first discovered atoms?</h300>
+    </Questions>
+</Jeopardy>
